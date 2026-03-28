@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/at_home_canada.html" }]
+}
